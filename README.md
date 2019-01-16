@@ -4,6 +4,7 @@ My name is Michelle Hertel, I'm a first-year student at Carnegie Mellon, getting
 My goal in earning a masters degree is to gain the skills to be an effective researcher and data analyst, and ultimately to join a think tank or the government doing work aimed at expanding voter participation and increasing the responsiveness of government to the people. In my free time, I like reading (as many books as possible), taking my dog for hikes, and playing piano or listening to music.
 
 # What I Hope to Learn
+Through this Telling Stories with Data class, I hope to learn more about creating visual representations of data in a way that makes the most sense and is easy to understand. Additionally, I hope to learn the most effective strategies for creating impactful data visualizations, and the tools that can be most beneficial in doing that.
 
 # Portfolio
 This will be where I collect data visualizations for my Telling Stories with Data class!
