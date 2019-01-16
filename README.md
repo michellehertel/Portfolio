@@ -1,5 +1,3 @@
-# portfolio
-A portfolio of work for Telling Stories with Data at CMU.
 # About Me
 My name is Michelle Hertel, I'm a first-year student at Carnegie Mellon, getting a masters in Public Policy and Management. I'm in the DC track, which means I'll be spending my second year in DC, working a fellowship while completing my remaining coursework. I came to CMU after working as an Americorps VISTA member at a non-profit law firm in Upstate New York for 18 months. Currently, I work at the Women's Law Project in Pittsburgh, where I manage a project that examines whether public schools provide equal funding to boys and girls sports teams.
 
