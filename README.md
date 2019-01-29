@@ -23,5 +23,5 @@ The data presented below comes from the OECD, and presents information about the
 
 ##### *Table Display*
 
-        images/Government Debt as % of GDP.png
+!(michellehertel.github.io/images/Government Debt as % of GDP.png)
       
