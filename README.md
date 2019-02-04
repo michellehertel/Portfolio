@@ -23,4 +23,12 @@ The data presented below comes from the OECD, and presents information about the
 
 ##### *Table Display*
 ![government debt as of gdp](https://user-images.githubusercontent.com/46752700/51885541-fb7f5b80-2359-11e9-9f81-b035d29c38d8.png)
+
+
+
+### Data Critique and Reimagined Visualization
+
+For this assignment, I looked at data on Penn State football statistics since James Franklin became head coach. 
+
+<div class="infogram-embed" data-id="a7b4edec-4893-4029-be10-7420ee3d68b4" data-type="interactive" data-title="Penn State Football"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script")[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=d+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var r=e.createElement("script");r.async=1,r.id=s,r.src=i,o.parentNode.insertBefore(r,o)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/a7b4edec-4893-4029-be10-7420ee3d68b4" style="color:#989898!important;text-decoration:none!important;" target="_blank">Penn State Football</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
       
