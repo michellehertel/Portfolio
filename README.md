@@ -9,6 +9,20 @@ Through this Telling Stories with Data class, I hope to learn more about creatin
 # Portfolio
 This will be where I collect data visualizations for my Telling Stories with Data class!
 
+# Part 1
+
+My final project will examine voter turnout in the general elections for both presidential and midterm election years. I will also be cross-referencing turnout with election administration tactics (such as same-day registration, automatic voter registration, and mail-in ballots) that may impact turnout rates.
+
+The general outline for this story will be to first look at voter turnout in general over time. Then, I will provide information about election administration tactics utilized by different states, including the type of election administration and where it has been implemented. This data will then be compared directly to voter turnout to determine if there is a correlation between any specific tactics meant to increase voter turnout, and the actual voting turnout once those changes have been implemented.
+
+##### Data
+
+The data I will be using comes from two sources. General voter turnout information comes from the [United States Election Project](http://www.electproject.org/2016g), which collects data on turnout from every national election, and calculated turnout based not on the total population, but on the voting-eligible population in each state. Their data therefore takes into account age, the prison population of a state, the population that is on parole, the number of non-citizens, and the number of ineligible felons. For states that allow felons to vote, the number of ineligible felons is recorded as 0. Data about the different types of election administration used comes from the [National Conference of States Legislatures (NCSL)](http://www.ncsl.org/research/elections-and-campaigns/election-laws-and-procedures-overview.aspx) data on election laws and procedures.
+
+##### Method and Medium
+
+The data will be presented in a variety of forms. Voter turnout over time will be presented in aggregate, using a bar chart or similar visualization to show the fluctuations over time. I will utilize maps to show the different types of election administration and the states that implement them. Finally, I will use a map or other more appropriate visualization to show which election administration policies have had the greatest impact on voter turnout rates.
+
 ##### Government Debt Visualizations (Assignment 2)
 The data presented below comes from the OECD, and presents information about the government debt in numerous countries as a percentage of each country's GDP. The first chart is a bar chart, which shows the government debt as a percentage of GDP in each of these countries in 2015. The second visualization is a beeswarm plot, which show government debt as a percentage of GDP in each country between 1995 and 2017. The size of the circles reflects the size of the government debt. The smaller the circle, the smaller the government debt as a percentage of GDP. Finally, the third visualization is a table showing the government debt as a percentage of GDP, using green to highlight lower government debts, and red to highlight higher government debt.
 
